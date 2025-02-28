@@ -15,7 +15,7 @@ SimpleTcpChat, Node.js kullanarak oluşturulmuş basit bir chat sunucusudur. Bu 
 
 1. Reposuyu klonlayın:
    ```
-   git clone https://github.com/tuna4ll/SimpleSocketChat.git
+   git clone https://github.com/tuna4ll/SimpleTcpChat.git
    ```
 2. Bağımlılıkları yükleyin:
     ```
